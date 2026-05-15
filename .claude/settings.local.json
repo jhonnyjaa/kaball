@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter --version)",
+      "Bash(flutter create *)",
+      "Bash(flutter pub *)",
+      "Bash(dart run *)",
+      "Bash(flutter analyze *)",
+      "Bash(flutter build *)",
+      "Bash(Select-String -Path \"D:\\\\apps\\\\kaballo\\\\lib\\\\core\\\\database\\\\app_database.g.dart\" -Pattern \"copyWith\")",
+      "Bash(Select-Object -First 5)",
+      "Bash(grep -v \"^Analyzing\\\\|^$\")"
+    ]
+  }
+}
